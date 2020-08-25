@@ -1,0 +1,151 @@
+{
+
+  //LBL_[Empty Variable Name],
+  "LBL_[Empty Variable Name]_ByXPath": "XPath://head/following-sibling::body/div[1]/header[1]",
+  "LBL_[Empty Variable Name]_ByCSS": "CssSelector:header:nth-child(1)",
+  "LBL_[Empty Variable Name]_ByXPathList": "XPath://head/following-sibling::body/div[1]/header",
+
+  //LNK_DemoqaCom,
+  "LNK_DemoqaCom_ByXPath": "XPath://a[@href='https://demoqa.com']",
+  "LNK_DemoqaCom_ByCSS": "CssSelector:a[href='https://demoqa.com']",
+
+  //BTN_ImagesToolsqaJpg,
+  "BTN_ImagesToolsqaJpg_ByXPath": "XPath://img[@src='/images/Toolsqa.jpg']",
+  "BTN_ImagesToolsqaJpg_ByCSS": "CssSelector:img[src='/images/Toolsqa.jpg']",
+
+  //LBL_Login,
+  "LBL_Login_ByXPath": "XPath://header/following-sibling::div/div[1]/div[1]/div[1]",
+  "LBL_Login_ByText": "XPath://div[contains(text(),'Login')]",
+  "LBL_Login_ByCSS": "CssSelector:div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Login_ByXPathList": "XPath://header/following-sibling::div/div[1]/div[1]/div",
+
+  //LBL_Elements,
+  "LBL_Elements_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[1]/span[1]",
+  "LBL_Elements_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[1]/span",
+
+  //LBL_Elements2,
+  "LBL_Elements2_ByXPath": "XPath:(//div/div/span/div/div)[1]",
+  "LBL_Elements2_ByText": "XPath://div[contains(text(),'Elements')]",
+  "LBL_Elements2_ByCSS": "CssSelector:div:nth-child(1) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Elements2_ByXPathList": "XPath://div/div/span/div/div",
+
+  //LBL_Forms,
+  "LBL_Forms_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[2]/span[1]",
+  "LBL_Forms_ByCSS": "CssSelector:div:nth-child(2) > span:nth-child(1)",
+  "LBL_Forms_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[2]/span",
+
+  //LBL_Forms2,
+  "LBL_Forms2_ByXPath": "XPath:(//div/div/span/div/div)[3]",
+  "LBL_Forms2_ByText": "XPath://div[contains(text(),'Forms')]",
+  "LBL_Forms2_ByCSS": "CssSelector:div:nth-child(2) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Forms2_ByXPathList": "XPath://div/div/span/div/div",
+
+  //LBL_Alertsframe&Windows,
+  "LBL_Alertsframe&Windows_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[3]/span[1]",
+  "LBL_Alertsframe&Windows_ByCSS": "CssSelector:div:nth-child(3) > span:nth-child(1)",
+  "LBL_Alertsframe&Windows_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[3]/span",
+
+  //LBL_Alertsframe&Windows2,
+  "LBL_Alertsframe&Windows2_ByXPath": "XPath:(//div/div/span/div/div)[5]",
+  "LBL_Alertsframe&Windows2_ByText": "XPath://div[contains(text(),'Alerts, Frame & Windows')]",
+  "LBL_Alertsframe&Windows2_ByCSS": "CssSelector:div:nth-child(3) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Alertsframe&Windows2_ByXPathList": "XPath://div/div/span/div/div",
+    
+  //LBL_Widgets,
+  "LBL_Widgets_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[4]/span[1]",
+  "LBL_Widgets_ByCSS": "CssSelector:div:nth-child(4) > span:nth-child(1)",
+  "LBL_Widgets_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[4]/span",
+
+  //LBL_Widgets2,
+  "LBL_Widgets2_ByXPath": "XPath:(//div/div/span/div/div)[7]",
+  "LBL_Widgets2_ByText": "XPath://div[contains(text(),'Widgets')]",
+  "LBL_Widgets2_ByCSS": "CssSelector:div:nth-child(4) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Widgets2_ByXPathList": "XPath://div/div/span/div/div",
+
+  //LBL_Interactions,
+  "LBL_Interactions_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[5]/span[1]",
+  "LBL_Interactions_ByCSS": "CssSelector:div:nth-child(5) > span:nth-child(1)",
+  "LBL_Interactions_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[5]/span",
+
+  //LBL_Interactions2,
+  "LBL_Interactions2_ByXPath": "XPath:(//div/div/span/div/div)[9]",
+  "LBL_Interactions2_ByText": "XPath://div[contains(text(),'Interactions')]",
+  "LBL_Interactions2_ByCSS": "CssSelector:div:nth-child(5) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Interactions2_ByXPathList": "XPath://div/div/span/div/div",
+
+  //LBL_Bookstoreapplication,
+  "LBL_Bookstoreapplication_ByXPath": "XPath://nav/following-sibling::div/div[1]/div[6]/span[1]",
+  "LBL_Bookstoreapplication_ByCSS": "CssSelector:div:nth-child(6) > span:nth-child(1)",
+  "LBL_Bookstoreapplication_ByXPathList": "XPath://nav/following-sibling::div/div[1]/div[6]/span",
+
+  //LBL_Bookstoreapplication2,
+  "LBL_Bookstoreapplication2_ByXPath": "XPath:(//div/div/span/div/div)[11]",
+  "LBL_Bookstoreapplication2_ByText": "XPath://div[contains(text(),'Book Store Application')]",
+  "LBL_Bookstoreapplication2_ByCSS": "CssSelector:div:nth-child(6) > span:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+  "LBL_Bookstoreapplication2_ByXPathList": "XPath://div/div/span/div/div",
+    
+  //LBL_Login2,
+  "LBL_Login2_ByXPath": "XPath:(//div/div/ul/li/span)[29]",
+  "LBL_Login2_ByText": "XPath://span[contains(text(),'Login')]",
+  "LBL_Login2_ByXPathList": "XPath://div/div/ul/li/span",
+
+  //LBL_Bookstore,
+  "LBL_Bookstore_ByXPath": "XPath:(//div/div/ul/li/span)[30]",
+  "LBL_Bookstore_ByText": "XPath:(//span[contains(text(),'Book Store')])[1]",
+  "LBL_Bookstore_ByXPathList": "XPath://div/div/ul/li/span",
+
+  //LBL_Profile,
+  "LBL_Profile_ByXPath": "XPath:(//div/div/ul/li/span)[31]",
+  "LBL_Profile_ByText": "XPath://span[contains(text(),'Profile')]",
+  "LBL_Profile_ByXPathList": "XPath://div/div/ul/li/span",
+
+  //LBL_Bookstoreapi,
+  "LBL_Bookstoreapi_ByXPath": "XPath:(//div/div/ul/li/span)[32]",
+  "LBL_Bookstoreapi_ByText": "XPath://span[contains(text(),'Book Store API')]",
+  "LBL_Bookstoreapi_ByXPathList": "XPath://div/div/ul/li/span",
+
+  //LBL_Username,
+  "LBL_Username_ByXPath": "XPath:(//div/form/div/div/label)[1]",
+  "LBL_Username_ByText": "XPath://label[contains(text(),'UserName :')]",
+  "LBL_Username_ByCSS": "CssSelector:div:nth-child(1) > div:nth-child(1) > label:nth-child(1)",
+  "LBL_Username_ByXPathList": "XPath://div/form/div/div/label",
+
+  //TXT_Username2,
+  "TXT_Username2_ByXPath": "XPath://input[@autocomplete='off'][@placeholder='UserName']",
+  "TXT_Username2_ByCSS": "CssSelector:input[autocomplete='off'][placeholder='UserName'][type='text']",
+
+  //LBL_Password,
+  "LBL_Password_ByXPath": "XPath:(//div/form/div/div/label)[2]",
+  "LBL_Password_ByText": "XPath://label[contains(text(),'Password :')]",
+  "LBL_Password_ByCSS": "CssSelector:div:nth-child(2) > div:nth-child(1) > label:nth-child(1)",
+  "LBL_Password_ByXPathList": "XPath://div/form/div/div/label",
+
+  //TXT_Password2,
+  "TXT_Password2_ByXPath": "XPath://input[@autocomplete='off'][@pattern='^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#\$%\^&\*])(?=.{8,})$']",
+  "TXT_Password2_ByCSS": "CssSelector:div:nth-child(2) > div:nth-child(2) > input:nth-child(1)",
+
+  //BTN_Newuser,
+  "BTN_Newuser_ByXPath": "XPath:(//div/form/div/div/button[@type='button'])[1]",
+  "BTN_Newuser_ByText": "XPath://button[contains(text(),'New User')]",
+  "BTN_Newuser_ByCSS": "CssSelector:div:nth-child(1) > button:nth-child(1)",
+  "BTN_Newuser_ByXPathList": "XPath://div/form/div/div/button[@type='button']",
+
+  //BTN_Login3,
+  "BTN_Login3_ByXPath": "XPath:(//div/form/div/div/button[@type='button'])[2]",
+  "BTN_Login3_ByText": "XPath://button[contains(text(),'Login')]",
+  "BTN_Login3_ByCSS": "CssSelector:div:nth-child(2) > button:nth-child(1)",
+  "BTN_Login3_ByXPathList": "XPath://div/form/div/div/button[@type='button']",
+
+  //LNK_ReflectRunUtmSource,
+  "LNK_ReflectRunUtmSource_ByXPath": "XPath://a[@href='https://reflect.run?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust']",
+  "LNK_ReflectRunUtmSource_ByCSS": "CssSelector:a[href='https://reflect.run?utm_source=demoqaad&utm_medium=cpc&utm_campaign=robust']",
+
+  //BTN_ImagesReflectDemoqaAdx2,
+  "BTN_ImagesReflectDemoqaAdx2_ByXPath": "XPath://img[@alt='reflect ad']",
+  "BTN_ImagesReflectDemoqaAdx2_ByCSS": "CssSelector:img[alt='reflect ad'][src='/images/reflect-demoqa-adx2.png']",
+
+  //LBL_20132020Toolsqacom,
+  "LBL_20132020Toolsqacom_ByXPath": "XPath://header/following-sibling::footer/span[1]",
+  "LBL_20132020Toolsqacom_ByText": "XPath://span[contains(text(),'© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.')]",
+  "LBL_20132020Toolsqacom_ByXPathList": "XPath://header/following-sibling::footer/span"
+}

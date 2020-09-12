@@ -1,10 +1,4 @@
 {
-
-  //LBL_[Empty Variable Name],
-  "LBL_[Empty Variable Name]_ByXPath": "XPath://head/following-sibling::body/div[1]/header[1]",
-  "LBL_[Empty Variable Name]_ByCSS": "CssSelector:header:nth-child(1)",
-  "LBL_[Empty Variable Name]_ByXPathList": "XPath://head/following-sibling::body/div[1]/header",
-
   //LNK_DemoqaCom,
   "LNK_DemoqaCom_ByXPath": "XPath://a[@href='https://demoqa.com']",
   "LNK_DemoqaCom_ByCSS": "CssSelector:a[href='https://demoqa.com']",

@@ -28,7 +28,7 @@
    
  ▪ Automatically create Page Object Properties
  
- ▪ Automatically create Test Steps/ Step Difinitions
+ ▪ Automatically create Test Steps/ Step Definitions
  
  ▪ Accelerates automation scripting > 80%
  

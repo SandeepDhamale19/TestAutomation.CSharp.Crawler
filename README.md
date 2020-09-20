@@ -34,4 +34,4 @@
  
  ▪ Reduces maintenance cost by > 95%
  
- ▪ Detect changes every new release
+ ▪ Detect changes every new release ans raises alarm for changes in UI

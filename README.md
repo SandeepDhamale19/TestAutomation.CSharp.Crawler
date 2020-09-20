@@ -32,6 +32,6 @@
  
  ▪ Accelerates automation scripting > 80%
  
- ▪ Reduces mantainance cost by > 95%
+ ▪ Reduces maintenance cost by > 95%
  
  ▪ Detect changes every new release
